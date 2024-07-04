@@ -1,0 +1,21 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+p{
+    color: brown;
+    text-align: justify;
+}
+div{
+    color:chartreuse;
+    font-style: italic;
+    background-color: brown;
+
+}
+div h3{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div ul li{
+    font-size: 30px;
+}
