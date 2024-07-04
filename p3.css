@@ -1,0 +1,22 @@
+h1{
+    color: crimson;
+}
+p{
+    color: blue;
+    text-align: justify;
+    font-size: 20px;
+}
+div{
+    background-color: aqua;
+}
+.first{
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    border: 10px solid red;
+}
+#second{
+    font-size: 25px;
+    border: 10px solid black;
+    border-radius: 20px;
+}
